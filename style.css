@@ -1,7 +1,8 @@
-h1 {
-    color: cadetblue;
-}
-
-h2 {
-    color: cornflowerblue;
+ul {
+    display: flex;
+    justify-content: space-around;
+    background-color: cadetblue;
+    list-style-type: none;
+    padding: 10px;
+    font-size: 2rem;
 }
